@@ -1,0 +1,181 @@
+﻿Group,Model,Feature,Importance,Importance_SD,Method,Rank
+AD,Random Forest,mmse_last,0.34944662027491546,0.04234216200666007,Permutation importance (test RMSE),1
+AD,Random Forest,mmse_min,0.10608900691692318,0.0188880346531047,Permutation importance (test RMSE),2
+AD,Random Forest,mmse_mean,0.03728877014335415,0.008693920769697923,Permutation importance (test RMSE),3
+AD,Random Forest,casi_language_min,0.016401729355458795,0.005284777499856976,Permutation importance (test RMSE),4
+AD,Random Forest,casi_total_min,0.011284027291764715,0.005987720552421897,Permutation importance (test RMSE),5
+AD,Random Forest,cdr_sob_last,0.007895939535182722,0.0034629300518156983,Permutation importance (test RMSE),6
+AD,Random Forest,casi_total_last,0.003751354343470406,0.005361967180924621,Permutation importance (test RMSE),7
+AD,Random Forest,cdr_sob_max,0.0036402516312055906,0.0025765558819000702,Permutation importance (test RMSE),8
+AD,Random Forest,cdr_community_mean,0.0023448524571955316,0.0009943954965545843,Permutation importance (test RMSE),9
+AD,Random Forest,visit_gap_log_std,0.0021887106672681565,0.0008547443379667823,Permutation importance (test RMSE),10
+AD,Random Forest,casi_verbal_fluency_std,0.0021842725463648237,0.0009034222630104835,Permutation importance (test RMSE),11
+AD,Random Forest,mmse_max,0.0014667933619311596,0.0009202546536648188,Permutation importance (test RMSE),12
+AD,Random Forest,cdr_memory_last,0.0012291698526899265,0.0010043080893436542,Permutation importance (test RMSE),13
+AD,Random Forest,cdr_memory_mean,0.0010165184306708736,0.001854364990151302,Permutation importance (test RMSE),14
+AD,Random Forest,cdr_judgment_mean,0.0009903050033461924,0.001417695998458389,Permutation importance (test RMSE),15
+AD,Random Forest,casi_total_std,0.0009724369230018432,0.00033297838428584294,Permutation importance (test RMSE),16
+AD,Random Forest,casi_orientation_last,0.0009711987844526731,0.0005528135417406662,Permutation importance (test RMSE),17
+AD,Random Forest,casi_abstraction_std,0.000899561047229619,0.00022632491728136547,Permutation importance (test RMSE),18
+AD,Random Forest,casi_short_term_memory_std,0.0008383134846323248,0.0002727912345886248,Permutation importance (test RMSE),19
+AD,Random Forest,casi_long_term_memory_min,0.000762322272268634,0.0005384573572613743,Permutation importance (test RMSE),20
+AD,SVM,history_span_days,0.26361876911292975,0.04573687278123128,Permutation importance (test RMSE),1
+AD,SVM,mmse_last,0.004987156551562783,0.0009215996050039844,Permutation importance (test RMSE),2
+AD,SVM,mmse_min,0.004574064585963583,0.0008561561009849071,Permutation importance (test RMSE),3
+AD,SVM,cdr_memory_last,0.0038374980424157714,0.0007301328876974572,Permutation importance (test RMSE),4
+AD,SVM,cdr_orientation_last,0.0037649778534721455,0.0006833887030331273,Permutation importance (test RMSE),5
+AD,SVM,cdr_sob_last,0.0036624108539175747,0.0007600019013524246,Permutation importance (test RMSE),6
+AD,SVM,cdr_orientation_max,0.0036120007467540126,0.0006409325108122445,Permutation importance (test RMSE),7
+AD,SVM,cdr_sob_max,0.003570540840351555,0.0007281670399609514,Permutation importance (test RMSE),8
+AD,SVM,mmse_mean,0.0034770168518816645,0.0007077994704656246,Permutation importance (test RMSE),9
+AD,SVM,cdr_community_last,0.0033582412517073777,0.0007294915416716337,Permutation importance (test RMSE),10
+AD,SVM,casi_total_last,0.0033549072624636965,0.0008628622870915323,Permutation importance (test RMSE),11
+AD,SVM,cdr_community_max,0.003347760227641566,0.0007390331289085609,Permutation importance (test RMSE),12
+AD,SVM,cdr_memory_max,0.0033055387847842734,0.0007462643698525831,Permutation importance (test RMSE),13
+AD,SVM,cdr_home_hobbies_max,0.003152345470867618,0.0007278559534948253,Permutation importance (test RMSE),14
+AD,SVM,cdr_judgment_last,0.0031351086391087635,0.0007544265065691272,Permutation importance (test RMSE),15
+AD,SVM,cdr_home_hobbies_last,0.0031186707418649597,0.0007463244644347397,Permutation importance (test RMSE),16
+AD,SVM,cdr_judgment_max,0.0031080642762668807,0.0007502846989504116,Permutation importance (test RMSE),17
+AD,SVM,cdr_global_max,0.003063416105592548,0.0006559724460698392,Permutation importance (test RMSE),18
+AD,SVM,casi_total_min,0.003041344210591984,0.0007178534119633992,Permutation importance (test RMSE),19
+AD,SVM,cdr_global_last,0.0029679438148193073,0.0006402152085076638,Permutation importance (test RMSE),20
+AD,XGBoost,mmse_last,0.5356193041580847,0.0620587009867269,Permutation importance (test RMSE),1
+AD,XGBoost,mmse_min,0.02812352608289348,0.0075386749310338425,Permutation importance (test RMSE),2
+AD,XGBoost,casi_language_min,0.020705470145620332,0.006030119075458853,Permutation importance (test RMSE),3
+AD,XGBoost,casi_drawing_max,0.01907229529541766,0.012542855673309315,Permutation importance (test RMSE),4
+AD,XGBoost,mmse_mean,0.011090939535477917,0.00429499743664024,Permutation importance (test RMSE),5
+AD,XGBoost,casi_drawing_mean,0.010241732868518557,0.007320870319163674,Permutation importance (test RMSE),6
+AD,XGBoost,cdr_sob_last,0.010190472073845765,0.0035322170779903774,Permutation importance (test RMSE),7
+AD,XGBoost,cdr_memory_mean,0.00870818349058638,0.004132897050506262,Permutation importance (test RMSE),8
+AD,XGBoost,casi_attention_std,0.0064108514039489944,0.0040081448572712,Permutation importance (test RMSE),9
+AD,XGBoost,cdr_orientation_last,0.004038854662179081,0.001807903061036042,Permutation importance (test RMSE),10
+AD,XGBoost,casi_total_std,0.003881505092875978,0.0010373539616519072,Permutation importance (test RMSE),11
+AD,XGBoost,casi_verbal_fluency_std,0.0038110512772705748,0.003826948503176222,Permutation importance (test RMSE),12
+AD,XGBoost,casi_mental_manipulation_last,0.0037318271431530077,0.0060624045171280925,Permutation importance (test RMSE),13
+AD,XGBoost,triglyceride_std,0.0034164791839351783,0.0012868061032034672,Permutation importance (test RMSE),14
+AD,XGBoost,cdr_community_mean,0.002884176032024255,0.0031197553946531458,Permutation importance (test RMSE),15
+AD,XGBoost,cdr_global_last,0.0025472396269370897,0.001968490814769319,Permutation importance (test RMSE),16
+AD,XGBoost,ldl_mean,0.0019199436184335506,0.0014984437070203792,Permutation importance (test RMSE),17
+AD,XGBoost,casi_attention_mean,0.0019063165380296537,0.003315227933009295,Permutation importance (test RMSE),18
+AD,XGBoost,cdr_memory_last,0.0018883105474397227,0.0014508720480380787,Permutation importance (test RMSE),19
+AD,XGBoost,casi_short_term_memory_mean,0.0018289212071751465,0.003222199476485432,Permutation importance (test RMSE),20
+CU,Random Forest,mmse_last,0.008691973662773684,0.009351085401521422,Permutation importance (test RMSE),1
+CU,Random Forest,education_last,0.006962008887984694,0.003621408326632453,Permutation importance (test RMSE),2
+CU,Random Forest,education_max,0.0059456713389055005,0.0034564487342076187,Permutation importance (test RMSE),3
+CU,Random Forest,education_mean,0.005658736422624688,0.004179101373343237,Permutation importance (test RMSE),4
+CU,Random Forest,apoe_missing_min,0.0048561233892870145,0.006353877030850541,Permutation importance (test RMSE),5
+CU,Random Forest,education_min,0.004585342032371487,0.003573427235273401,Permutation importance (test RMSE),6
+CU,Random Forest,mmse_mean,0.0038370677445674515,0.004356071794401779,Permutation importance (test RMSE),7
+CU,Random Forest,apoe4_count_min,0.0038060244157469224,0.00521796110653526,Permutation importance (test RMSE),8
+CU,Random Forest,apoe_missing_max,0.003402288145526461,0.004100632263676377,Permutation importance (test RMSE),9
+CU,Random Forest,apoe_missing_mean,0.0022691499303557463,0.0033592820076623156,Permutation importance (test RMSE),10
+CU,Random Forest,apoe4_count_last,0.002124807031713816,0.0028539096139983348,Permutation importance (test RMSE),11
+CU,Random Forest,apoe_missing_last,0.0019214752591149465,0.0031441209399889506,Permutation importance (test RMSE),12
+CU,Random Forest,triglyceride_std,0.0017470835443723631,0.0014533806230818134,Permutation importance (test RMSE),13
+CU,Random Forest,apoe4_count_max,0.001208439721194754,0.0026880504026087445,Permutation importance (test RMSE),14
+CU,Random Forest,apoe4_count_mean,0.0012002759156225285,0.0028922942034066406,Permutation importance (test RMSE),15
+CU,Random Forest,mmse_min,0.001017816506348207,0.004151726427441786,Permutation importance (test RMSE),16
+CU,Random Forest,vldl_last,0.0009785815622318783,0.001312422143956631,Permutation importance (test RMSE),17
+CU,Random Forest,casi_short_term_memory_max,0.0009139137309545798,0.0008726560912558188,Permutation importance (test RMSE),18
+CU,Random Forest,casi_abstraction_mean,0.0007894831519790313,0.0005939577060127657,Permutation importance (test RMSE),19
+CU,Random Forest,vldl_std,0.0007520735317180227,0.0006655580120858833,Permutation importance (test RMSE),20
+CU,SVM,history_span_days,0.12446622486791994,0.14531346160884362,Permutation importance (test RMSE),1
+CU,SVM,total_cholesterol_max,0.0003784542130366608,0.00024740497108434505,Permutation importance (test RMSE),2
+CU,SVM,ldl_max,0.0002905308387602723,0.00020619448709673327,Permutation importance (test RMSE),3
+CU,SVM,apoe_missing_mean,0.00023963628767311728,0.00015670054221046152,Permutation importance (test RMSE),4
+CU,SVM,apoe_missing_max,0.00023963628767311728,0.00015670054221046152,Permutation importance (test RMSE),5
+CU,SVM,apoe_missing_last,0.00023963628767311728,0.00015670054221046152,Permutation importance (test RMSE),6
+CU,SVM,apoe_missing_min,0.00023963628767247335,0.00015670054221029363,Permutation importance (test RMSE),7
+CU,SVM,casi_abstraction_min,0.00013869319994710416,9.361719023429096e-05,Permutation importance (test RMSE),8
+CU,SVM,total_cholesterol_mean,0.00013189666054390646,0.000191012737169171,Permutation importance (test RMSE),9
+CU,SVM,ldl_mean,0.0001216273239565413,0.0001426013768518858,Permutation importance (test RMSE),10
+CU,SVM,age_first_mmse_max,0.0001185936385269759,8.081730621289123e-05,Permutation importance (test RMSE),11
+CU,SVM,age_first_mmse_mean,0.0001185936385269759,8.081730621289123e-05,Permutation importance (test RMSE),12
+CU,SVM,age_first_mmse_min,0.00011859363852334548,8.081730621416444e-05,Permutation importance (test RMSE),13
+CU,SVM,age_first_mmse_last,0.00011859363852334548,8.081730621416444e-05,Permutation importance (test RMSE),14
+CU,SVM,casi_verbal_fluency_min,0.00011705893611586582,9.184701907963844e-05,Permutation importance (test RMSE),15
+CU,SVM,apoe4_count_last,0.00011179140637902485,7.532236038794303e-05,Permutation importance (test RMSE),16
+CU,SVM,apoe4_count_mean,0.00011179140637902485,7.532236038794303e-05,Permutation importance (test RMSE),17
+CU,SVM,apoe4_count_max,0.00011179140637902485,7.532236038794303e-05,Permutation importance (test RMSE),18
+CU,SVM,apoe4_count_min,0.00011179140637813667,7.532236039100864e-05,Permutation importance (test RMSE),19
+CU,SVM,casi_short_term_memory_max,0.00011109057433753567,5.436393411149906e-05,Permutation importance (test RMSE),20
+CU,XGBoost,mmse_last,0.04041538370639345,0.027692032635567247,Permutation importance (test RMSE),1
+CU,XGBoost,apoe4_count_last,0.02546625690736067,0.019102961164997566,Permutation importance (test RMSE),2
+CU,XGBoost,mmse_std,0.02320797973377184,0.0563219260797042,Permutation importance (test RMSE),3
+CU,XGBoost,casi_verbal_fluency_std,0.018766006168771283,0.012709101488533775,Permutation importance (test RMSE),4
+CU,XGBoost,education_last,0.01270330645047878,0.012679216324919411,Permutation importance (test RMSE),5
+CU,XGBoost,vldl_std,0.010509917264389818,0.005486969796540344,Permutation importance (test RMSE),6
+CU,XGBoost,casi_short_term_memory_max,0.010085776407873387,0.00589982130555198,Permutation importance (test RMSE),7
+CU,XGBoost,hdl_last,0.007073053604704888,0.00510245523074204,Permutation importance (test RMSE),8
+CU,XGBoost,apoe_missing_last,0.005412915792291889,0.006041599473538032,Permutation importance (test RMSE),9
+CU,XGBoost,casi_verbal_fluency_max,0.00511349257060551,0.004281584025856828,Permutation importance (test RMSE),10
+CU,XGBoost,gender_last,0.0047369562455321255,0.009638941426286787,Permutation importance (test RMSE),11
+CU,XGBoost,casi_attention_std,0.004215727186054052,0.0016100128393129929,Permutation importance (test RMSE),12
+CU,XGBoost,mmse_mean,0.0036334943907734675,0.0038118763959675327,Permutation importance (test RMSE),13
+CU,XGBoost,hdl_std,0.003314456837014035,0.0016572284185070174,Permutation importance (test RMSE),14
+CU,XGBoost,mmse_max,0.0030056912933378145,0.0022910601492798603,Permutation importance (test RMSE),15
+CU,XGBoost,casi_short_term_memory_mean,0.0027115380120692366,0.005309866584535093,Permutation importance (test RMSE),16
+CU,XGBoost,casi_abstraction_std,0.00248137330570774,0.012831746707877663,Permutation importance (test RMSE),17
+CU,XGBoost,hyperlipidemia_last,0.0019726422038736425,0.007395542782790207,Permutation importance (test RMSE),18
+CU,XGBoost,education_mean,0.0016467901836000997,0.0014377243579858105,Permutation importance (test RMSE),19
+CU,XGBoost,hdl_missing_last,0.0016261942459809442,0.0016579433517118687,Permutation importance (test RMSE),20
+non-AD,Random Forest,mmse_last,0.026736677178611924,0.011754534392657638,Permutation importance (test RMSE),1
+non-AD,Random Forest,mmse_min,0.021357298991383326,0.009696457109757096,Permutation importance (test RMSE),2
+non-AD,Random Forest,mmse_mean,0.01869888486775094,0.010369436798194902,Permutation importance (test RMSE),3
+non-AD,Random Forest,casi_total_last,0.00784919283037871,0.004472036924133652,Permutation importance (test RMSE),4
+non-AD,Random Forest,mmse_max,0.006147738299745925,0.003237299514020378,Permutation importance (test RMSE),5
+non-AD,Random Forest,casi_language_min,0.004864424276199314,0.0028535258146499486,Permutation importance (test RMSE),6
+non-AD,Random Forest,casi_language_mean,0.004237316294573928,0.0038542774319757513,Permutation importance (test RMSE),7
+non-AD,Random Forest,casi_abstraction_min,0.003940455652715713,0.0019383312060755988,Permutation importance (test RMSE),8
+non-AD,Random Forest,casi_total_min,0.003824295687954146,0.003931737408953017,Permutation importance (test RMSE),9
+non-AD,Random Forest,casi_total_mean,0.0029548282426389875,0.004801900966233399,Permutation importance (test RMSE),10
+non-AD,Random Forest,casi_orientation_mean,0.0027921143381763993,0.0020220229311705214,Permutation importance (test RMSE),11
+non-AD,Random Forest,casi_mental_manipulation_mean,0.0026719417784182133,0.002522353401384671,Permutation importance (test RMSE),12
+non-AD,Random Forest,casi_language_last,0.002280955512195007,0.0011760792487330758,Permutation importance (test RMSE),13
+non-AD,Random Forest,casi_short_term_memory_min,0.002215084201766071,0.001788203915740455,Permutation importance (test RMSE),14
+non-AD,Random Forest,casi_verbal_fluency_mean,0.0021563606877272766,0.0013497351074391473,Permutation importance (test RMSE),15
+non-AD,Random Forest,casi_orientation_last,0.002151306934999997,0.0008221768569579126,Permutation importance (test RMSE),16
+non-AD,Random Forest,casi_language_missing_mean,0.00205365295958522,0.001274380553974214,Permutation importance (test RMSE),17
+non-AD,Random Forest,fasting_glucose_mean,0.0017075033678360997,0.00036786879027957115,Permutation importance (test RMSE),18
+non-AD,Random Forest,casi_mental_manipulation_min,0.001597157252571557,0.0018983284169818444,Permutation importance (test RMSE),19
+non-AD,Random Forest,casi_mental_manipulation_missing_mean,0.001577681782385934,0.0013228463790404767,Permutation importance (test RMSE),20
+non-AD,SVM,mmse_last,0.006451728900523318,0.0012176601831370643,Permutation importance (test RMSE),1
+non-AD,SVM,mmse_min,0.005804352254086598,0.001026559394673587,Permutation importance (test RMSE),2
+non-AD,SVM,cdr_community_last,0.004688012817272158,0.0007835998962399368,Permutation importance (test RMSE),3
+non-AD,SVM,cdr_sob_last,0.004634752455145802,0.0007887991008028757,Permutation importance (test RMSE),4
+non-AD,SVM,casi_total_last,0.004631117446778049,0.0009052593249871502,Permutation importance (test RMSE),5
+non-AD,SVM,mmse_mean,0.004481544915434765,0.0007370685028587368,Permutation importance (test RMSE),6
+non-AD,SVM,cdr_community_max,0.004429716837698527,0.0008240218399322005,Permutation importance (test RMSE),7
+non-AD,SVM,cdr_sob_max,0.004385644908566555,0.0008282598458814222,Permutation importance (test RMSE),8
+non-AD,SVM,cdr_orientation_last,0.004373933280853714,0.0008254663481881706,Permutation importance (test RMSE),9
+non-AD,SVM,cdr_home_hobbies_last,0.004190538845921454,0.000723245487796426,Permutation importance (test RMSE),10
+non-AD,SVM,casi_orientation_last,0.0041698363725922675,0.0009785824979599525,Permutation importance (test RMSE),11
+non-AD,SVM,casi_total_min,0.004122146292623402,0.0009228072452152656,Permutation importance (test RMSE),12
+non-AD,SVM,cdr_home_hobbies_max,0.004069806747762755,0.0007282585623169995,Permutation importance (test RMSE),13
+non-AD,SVM,cdr_memory_last,0.0037590645369255716,0.0007407010398957655,Permutation importance (test RMSE),14
+non-AD,SVM,cdr_judgment_last,0.00369895008682814,0.0007177077988091057,Permutation importance (test RMSE),15
+non-AD,SVM,cdr_orientation_max,0.003695280633035669,0.0009086615073759264,Permutation importance (test RMSE),16
+non-AD,SVM,casi_orientation_min,0.0036823856343679573,0.0010448596115243329,Permutation importance (test RMSE),17
+non-AD,SVM,cdr_judgment_max,0.0036526163174872618,0.0008032425582696588,Permutation importance (test RMSE),18
+non-AD,SVM,cdr_personal_care_max,0.003623663460161297,0.0006141652427355777,Permutation importance (test RMSE),19
+non-AD,SVM,casi_long_term_memory_min,0.003505669287931568,0.0007517521311792133,Permutation importance (test RMSE),20
+non-AD,XGBoost,mmse_last,0.1972513361053302,0.05037366046858027,Permutation importance (test RMSE),1
+non-AD,XGBoost,mmse_min,0.05528705920386442,0.031438689322023254,Permutation importance (test RMSE),2
+non-AD,XGBoost,casi_abstraction_min,0.0102499102934555,0.004863799433227266,Permutation importance (test RMSE),3
+non-AD,XGBoost,casi_language_mean,0.008841538253344935,0.007671804330611421,Permutation importance (test RMSE),4
+non-AD,XGBoost,mmse_mean,0.00856312941678172,0.016477682621441662,Permutation importance (test RMSE),5
+non-AD,XGBoost,fasting_glucose_mean,0.004705147890094305,0.004100839656080113,Permutation importance (test RMSE),6
+non-AD,XGBoost,casi_language_max,0.004587716052661006,0.007346103001742031,Permutation importance (test RMSE),7
+non-AD,XGBoost,fasting_glucose_last,0.004552937285666326,0.003398208338511288,Permutation importance (test RMSE),8
+non-AD,XGBoost,history_span_days,0.0041885765966050235,0.002764416786437001,Permutation importance (test RMSE),9
+non-AD,XGBoost,casi_short_term_memory_mean,0.0035169130081383502,0.00308218077075812,Permutation importance (test RMSE),10
+non-AD,XGBoost,casi_mental_manipulation_max,0.0033482510262997254,0.0031618523471954613,Permutation importance (test RMSE),11
+non-AD,XGBoost,age_first_mmse_last,0.003250311359651342,0.005284778791578713,Permutation importance (test RMSE),12
+non-AD,XGBoost,casi_total_min,0.003248377431110955,0.0012260181739349749,Permutation importance (test RMSE),13
+non-AD,XGBoost,casi_attention_min,0.0030745005206498062,0.0015438303219255745,Permutation importance (test RMSE),14
+non-AD,XGBoost,casi_orientation_max,0.002645001777485642,0.0008845869537157938,Permutation importance (test RMSE),15
+non-AD,XGBoost,casi_abstraction_last,0.0026065376495230303,0.0013443148999400494,Permutation importance (test RMSE),16
+non-AD,XGBoost,vldl_last,0.0021061647026743373,0.000989849834082153,Permutation importance (test RMSE),17
+non-AD,XGBoost,casi_short_term_memory_min,0.0020933353277753615,0.001269558093541367,Permutation importance (test RMSE),18
+non-AD,XGBoost,visit_gap_log_mean,0.0020094411138727787,0.0009853334994820537,Permutation importance (test RMSE),19
+non-AD,XGBoost,casi_language_std,0.001889742024443436,0.0007687704695451106,Permutation importance (test RMSE),20
