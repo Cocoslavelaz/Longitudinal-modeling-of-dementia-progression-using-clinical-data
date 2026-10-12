@@ -1,0 +1,75 @@
+# Local research data and patient-level experiment artifacts
+/data/
+/results/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.xlsm
+*.parquet
+*.feather
+*.arrow
+*.h5
+*.hdf5
+*.sqlite
+*.sqlite3
+*.db
+
+# Trained models, arrays, and serialized datasets
+*.pkl
+*.pickle
+*.joblib
+*.npy
+*.npz
+*.pt
+*.pth
+*.onnx
+*.ckpt
+
+# Python environments and generated files
+.venv*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+htmlcov/
+build/
+dist/
+
+# Notebook checkpoints and machine-specific Jupyter/editor settings
+.ipynb_checkpoints/
+/.jupyter/
+/.ipython/
+.vscode/
+.idea/
+
+# Credentials and local environment configuration
+.env
+.env.*
+!.env.example
+!.env.template
+/.aws/
+/.ssh/
+credentials.json
+service_account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Temporary files, logs, OS metadata, and backups
+*.log
+*.tmp
+*.temp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+Desktop.ini

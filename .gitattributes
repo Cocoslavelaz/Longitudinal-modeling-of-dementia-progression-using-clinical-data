@@ -1,0 +1,2 @@
+# Git's staged notebook has no outputs; working files retain local results.
+*.ipynb filter=notebook-clean

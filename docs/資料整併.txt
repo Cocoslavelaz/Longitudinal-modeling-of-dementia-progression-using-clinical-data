@@ -1,0 +1,1 @@
+問題: mmse repeat no./final 的欄位定義是什麼?
